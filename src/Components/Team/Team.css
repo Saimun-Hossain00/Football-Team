@@ -1,0 +1,27 @@
+.header-container{
+    width:250px;
+    height: 300px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px  10px rgb(180, 175, 175);
+    float: left;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+.header-container img{
+    width: 120px;
+}
+.main-button{
+    width: 100px;
+    padding: 8px;
+    color: #FFFFFF;
+    background-color: #3A42FF;
+   border-radius: 5px;
+   border: none;
+}
+.main-detail{
+    margin-left: 80px;
+    background-color: #3A42FF!;
+   
+}

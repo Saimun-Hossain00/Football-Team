@@ -1,0 +1,25 @@
+.container {
+  background-color: rgb(14, 10, 41);
+}
+.team-container {
+  border: 2px solid purple;
+  background-color: rgb(255, 255, 255);
+  width: 350px;
+  height: 350px;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  float: left;
+}
+.cart-container img {
+  width: 100px;
+}
+.main-btn button {
+  border: none;
+  padding: 10px;
+  width: 150px;
+  border-radius: 5px;
+  background-color: blue;
+  color: white;
+  font-weight: 700;
+}
